@@ -26,7 +26,7 @@
 <li>
 <b>Nome:</b> Thalles</li>
 <li>
-<b>Idade:</b> 19 anos</li>
+<b>Idade:</b> 21 anos</li>
 <li>
 <b>Gosto de:</b> animes, jogos e programação
 </li>
