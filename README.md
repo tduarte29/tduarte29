@@ -33,9 +33,6 @@
 <li>
 <b>Estudando:</b> Análise Desenvolvimento de Sistemas
 </li>
-<li>
-  <b>Site:</b> https://tduarte29.github.io/tduarte/
-</li>
 </div>
 <br><br>
 </div>
